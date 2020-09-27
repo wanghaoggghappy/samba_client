@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samba-documents-provider.iml" filepath="$PROJECT_DIR$/samba-documents-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/samba-documents-provider-1.1.iml" filepath="$PROJECT_DIR$/.idea/modules/samba-documents-provider-1.1.iml" group="samba-documents-provider-1.1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/samba-documents-provider-1.1-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/samba-documents-provider-1.1-app.iml" group="samba-documents-provider-1.1/app" />
+    </modules>
+  </component>
+</project>
