@@ -36,4 +36,6 @@ Please go to our [Google group][discussion] to discuss any issues.
 [samba-source]: https://download.samba.org/pub/samba/stable/samba-4.5.1.tar.gz
 [discussion]: https://groups.google.com/forum/#!forum/samba-documents-provider.
 //personal exp : can only compile in linux. mac will fail
+
 //personal docker image {docker push flyfish89/samba:v1}
+
